@@ -1,3 +1,3 @@
 # Cluster-Analysis-Toronto
 
-Cluster analysis in the neighbours of Toronto - ON, using webscraping and the KNN algorithm.
+Cluster analysis in the boroughs of the city of Toronto - ON, making use of webscraping and the KNN clustering algorithm.
